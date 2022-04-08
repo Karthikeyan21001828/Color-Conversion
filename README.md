@@ -87,47 +87,68 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
+
 BGR
+
 ![op](op1_1.png)
 
 BGR to HSV
+
 ![op](op1_2.png)
+
 ### ii) HSV to RGB and BGR
+
 HSV
+
 ![op](op2_1.png)
 
 HSV to BGR
+
 ![op](op2_2.png)
+
 ### iii) RGB and BGR to YCrCb
 BGR
+
 ![op](op3_1.png)
 
 BGR to YCrCb
+
 ![op](op3_2.png)
 
 ### iv) Split and merge RGB Image
+
 BLUE
+
 ![op](op4_1.png)
 
 GREEN
+
 ![op](op4_2.png)
 
 RED
+
 ![op](op4_3.png)
 
 MERGED
+
 ![op](op4_4.png)
+
 ### v) Split and merge HSV Image
+
 H
+
 ![op](op5_1.png)
 
 S
+
 ![op](op5_2.png)
 
 V
+
 ![op](op5_3.png)
 
 MERGED
+
 ![op](op5_4.png)
 
 ## Result:
